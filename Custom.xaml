@@ -1,4 +1,4 @@
-﻿<local:MyCard Title="更新" Margin="0,0,0,15" CanSwap="False" IsSwaped="False">
+ ﻿<local:MyCard Title="更新" Margin="0,0,0,15" CanSwap="False" IsSwaped="False">
     <StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                     Text="
@@ -48,7 +48,7 @@
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                     Text="1. 暂定" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
-                    Text="2. 稳定了再说吧(先摆烂)" />
+                    Text="2. 暂定" />
     </StackPanel>
 </local:MyCard>
 
